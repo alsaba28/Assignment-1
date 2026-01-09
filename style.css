@@ -265,3 +265,59 @@
     margin-right: 6px;
 }
 
+/* End of Second Brain section */
+
+/* Ready Section */
+
+
+#ready {
+    background-color: #F7F6F2;
+    padding: 80px;
+    border-radius: 12px;
+    margin: 120px auto;
+}
+
+
+.ready-content {
+    text-align: center;
+}
+
+
+.ready-content h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 15px;
+}
+
+
+.ready-content p {
+    color: #627382;
+    line-height: 24px;
+    margin-bottom: 25px;
+}
+
+
+.ready-content .primary-btn {
+    margin-bottom: 25px;
+}
+
+
+.ready-content ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.ready-content ul .list{
+     list-style: none;
+}
+
+
+.ready-content ul li {
+    color: #627382;
+    font-size: 14px;
+}
+
+/* End of Ready Section */
+
